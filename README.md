@@ -1,5 +1,5 @@
 # Grant-Park-Diorama
-An Arduino project focused on demonstrating ways of minimizing light pollution in a diorama of Grant Park.
+An Arduino project focused on demonstrating ways of minimizing light pollution in a diorama of Grant Park. This was made during my time as an Teen participant in the Astro-Science Workshop at the Adler Planetarium. See the instructible on how to build the diorama here: https://www.instructables.com/Grant-Park-Instructable-by-AMN-Lighting-Corp/
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
